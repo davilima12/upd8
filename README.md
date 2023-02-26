@@ -11,5 +11,9 @@
 4 - php artisan migrate --seed
 ```
 ```
-5 - acessar a rota localhost:8000
+5 - php artisan key:generate
+```
+
+```
+6 - php artisan serve
 ```
