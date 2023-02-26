@@ -5,8 +5,11 @@
 2 - composer install
 ```
 ```
-3 - php artisan migrate --seed
+3 - Configurar seu banco de dados no arquivo .env
 ```
 ```
-4 - acessar a rota localhost:8000
+4 - php artisan migrate --seed
+```
+```
+5 - acessar a rota localhost:8000
 ```
